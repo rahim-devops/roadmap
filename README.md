@@ -26,7 +26,7 @@
 
 ## Orchestration (Kubernetes)
 
-## AWS
+## Cloud provider (AWS)
 
 ## Logs Management (ELK) 
 ## App Monitoring (Prometheus)
